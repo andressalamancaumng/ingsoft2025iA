@@ -1,0 +1,7 @@
+{
+  "name": "grupo A",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
